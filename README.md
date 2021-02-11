@@ -14,7 +14,7 @@ A structural time-serie is expressed as:
 ![](images/STSformula.PNG)
 
 
-## USe Case
+## Use case
 In the example below the daily returns of a european sectorial ETF are expressed as a function of:
 *Daily returns of the Stoxx50
 *Seasonality term: day of week effect
