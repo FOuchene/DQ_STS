@@ -16,9 +16,10 @@ A structural time-serie is expressed as:
 
 ## Use case
 In the example below the daily returns of a european sectorial ETF are expressed as a function of:
-*Daily returns of the Stoxx50
-*Seasonality term: day of week effect
-*Auto-regressive term of 1st order
+
+* Daily returns of the Stoxx50
+* Seasonality term: day of week effect
+* Auto-regressive term of 1st order
 
 ### Loss function
 ![](images/elbo.PNG)
